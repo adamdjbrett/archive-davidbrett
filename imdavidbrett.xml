@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response>
+	<entry>
+		<id>87874677</id>
+		<hash>2f2bee3e3c6245bbf67207652c0938e4</hash>
+		<requestHash>imdavidbrett</requestHash>
+		<profileUrl>http://gravatar.com/imdavidbrett</profileUrl>
+		<preferredUsername>imdavidbrett</preferredUsername>
+		<thumbnailUrl>http://2.gravatar.com/avatar/2f2bee3e3c6245bbf67207652c0938e4</thumbnailUrl>
+		<photos>
+			<value>http://2.gravatar.com/avatar/2f2bee3e3c6245bbf67207652c0938e4</value>
+			<type>thumbnail</type>
+		</photos>
+		<photos>
+			<value>http://1.gravatar.com/userimage/87874677/72f514286e19cc9660dd02773c70062e</value>
+		</photos>
+		<photos>
+			<value>http://1.gravatar.com/userimage/87874677/89fccd1711be90acd4e6d5cdffa61aa0</value>
+		</photos>
+		<name>
+			<givenName>David</givenName>
+			<familyName>Brett</familyName>
+			<formatted>David Brett</formatted>
+		</name>
+		<displayName>imdavidbrett</displayName>
+		<aboutMe>Hello my name is David Brett and I am a pastor, teacher, and chaplain. I want to understand the issues, needs, and worldview of current postmodern culture and how the church may respond.</aboutMe>
+		<currentLocation>Summerfield, FL</currentLocation>
+		<emails>
+			<value>djb@davidbrett.im</value>
+			<primary>true</primary>
+		</emails>
+		<accounts>
+			<domain>goodreads.com</domain>
+			<userid>43542113</userid>
+			<display>goodreads.com</display>
+			<url>http://www.goodreads.com/user/show/43542113-david-brett</url>
+			<verified>true</verified>
+			<shortname>goodreads</shortname>
+		</accounts>
+		<accounts>
+			<domain>tumblr.com</domain>
+			<username>imdavidbrett</username>
+			<display>imdavidbrett</display>
+			<url>http://imdavidbrett.tumblr.com/</url>
+			<verified>true</verified>
+			<shortname>tumblr</shortname>
+		</accounts>
+		<accounts>
+			<domain>twitter.com</domain>
+			<username>pastordavbrett</username>
+			<display>@pastordavbrett</display>
+			<url>http://twitter.com/pastordavbrett</url>
+			<verified>true</verified>
+			<shortname>twitter</shortname>
+		</accounts>
+		<accounts>
+			<domain>davidbrett.im</domain>
+			<username>davidbrett.im</username>
+			<display>davidbrett.im</display>
+			<url>http://davidbrett.im/</url>
+			<verified>true</verified>
+			<shortname>wordpress</shortname>
+		</accounts>
+		<urls>
+			<title>I&apos;m David Brett | DavidBrett.im</title>
+			<value>http://davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>Twitter</title>
+			<value>http://twitter.com/pastordavbrett</value>
+		</urls>
+		<urls>
+			<title>Facebook.com</title>
+			<value>http://facebook.com/david.brett.9275</value>
+		</urls>
+		<urls>
+			<title>Instagram</title>
+			<value>http://instagram.com/imdavidbrett</value>
+		</urls>
+		<urls>
+			<title>Tumblr</title>
+			<value>http://imdavidbrett.tumblr.com</value>
+		</urls>
+		<urls>
+			<title>WIkiWorldBook - David Brett</title>
+			<value>http://wikiworldbook.com/profile-133954-David-Brett</value>
+		</urls>
+		<urls>
+			<title>Flavors.me</title>
+			<value>http://DavidBrett.flavors.me</value>
+		</urls>
+		<urls>
+			<title>about.me</title>
+			<value>http://about.me/DavidBrett</value>
+		</urls>
+		<urls>
+			<title>Pins</title>
+			<value>http://pins.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>Goodreads</title>
+			<value>http://books.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>Academia</title>
+			<value>http://academia.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>G+</title>
+			<value>http://G.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>David Brett CV</title>
+			<value>http://cv.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>Visual CV</title>
+			<value>http://visualcv.com/imdavidbrett</value>
+		</urls>
+		<urls>
+			<title>David Brett LinkedIn</title>
+			<value>http://linkedin.com/in/davbrett</value>
+		</urls>
+		<urls>
+			<title>David Brett Resume </title>
+			<value>http://resume.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>David Brett photos</title>
+			<value>http://photos.davidbrett.im </value>
+		</urls>
+		<urls>
+			<title>David Brett tweets</title>
+			<value>http://tw.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>David Brett Tumblr</title>
+			<value>http://t.davidbrett.im</value>
+		</urls>
+		<urls>
+			<title>David Brett homepage</title>
+			<value>http://Davidbrett.im</value>
+		</urls>
+	</entry>
+</response>
